@@ -6,3 +6,9 @@ For the 0-lam_betty script: To be added later
 
 #CHAPTER 2: PRINT EFFECTIVE USER SCRIPT FILE
 for the 1-who_am_i script
+
+
+# shell_permissions
+## 4-empty
+This script creates an empty file called `hello`.
+
