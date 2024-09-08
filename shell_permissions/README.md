@@ -12,3 +12,7 @@ for the 1-who_am_i script
 ## 4-empty
 This script creates an empty file called `hello`.
 
+# shell_permissions
+## 5-execute
+This script adds execute permission to the owner of the file `hello`.
+
