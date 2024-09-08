@@ -21,3 +21,8 @@ This script adds execute permission to the owner of the file `hello`.
 ## 6-multiple_permissions
 This script adds execute permission to the owner and group owner, and read permission to other users for the file `hello`.
 
+
+# shell_permissions
+## 9-John_Doe
+This script sets the mode of the file `hello` to `-rwxr-x-wx`.
+
